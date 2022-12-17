@@ -1,5 +1,5 @@
--NO MOTD-
-INSTALL TAMARIN
-BRAD IS COOL
+-REPORTING-
+Reporting System works now!
+Only report people if they deserve it!
 
 -Hilolklo
